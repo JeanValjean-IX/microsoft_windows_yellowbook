@@ -12,9 +12,20 @@ Para este WhiteBook sólo nos centraremos en entornos Windows.
 
 BitLocker principalmente es utilizado para:
 
-- Evitar accesos no permitido a la información
-- Evitar perdida o fugas de infromación
-- Por nomativa aplicable
+- Evitar accesos no permitidos a la información.
+- Evitar la perdida o fugas de infromación.
+- Por nomativa aplicable.
+
+Los dos primeros puntos no necesitan mucha más explicación. La encriptación evita y reduce los riegos asociados a personas mal intencionadas que intentan acceder o robar información personal o de una organización.
+
+Sin embargo, el tercer punto dependerá de la normativa legal aplicable al propietario de la información. Por ejemplo, en el teritorio Español encontramos:
+
+- ENS (Esquema Nacional de Seguridad), en el caso, de las Administraciones Públicas.
+  El ENS obliga a cifrar la información en diversos contextos, especialmente cuando se trata de información confidencial, sensible o crítica. La implementación de estas medidas debe ser parte de una estrategia integral de seguridad basada en el análisis de riesgos y la clasificación de los activos de información. 
+- LOPDGDD (Ley Organica de Protección de Datos y Garantias de Derechos Digitales), en todos los casos.
+- Etc..
+
+ 
 
 
 
