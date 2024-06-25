@@ -21,6 +21,7 @@ Los dos primeros puntos no necesitan mucha más explicación. La encriptación e
 Sin embargo, el tercer punto dependerá de la normativa legal aplicable al propietario de la información. Por ejemplo, en el teritorio Español encontramos:
 
 - ENS (Esquema Nacional de Seguridad), en el caso, de las Administraciones Públicas, se obliga a cifrar la información en diversos contextos, especialmente cuando se trata de información confidencial, sensible o crítica.
+ 
 - LOPDGDD (Ley Organica de Protección de Datos y Garantias de Derechos Digitales) junto al RGPD (Reglamento General de Protección de Datos) de la Unión Europea, establece las obligaciones para la protección de datos personales.
 
 Aunque no especifican explícitamente en todos los casos cuándo se debe cifrar la información, imponen la implementación de medidas técnicas y organizativas adecuadas para garantizar un nivel de seguridad adecuado al riesgo.
