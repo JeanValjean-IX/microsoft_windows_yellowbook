@@ -12,9 +12,9 @@ Para este WhiteBook sólo nos centraremos en entornos Windows.
 
 BitLocker principalmente es utilizado para:
 
-a) Evitar accesos no permitido a la información
-b) Evitar perdida o fugas de infromación
-c) Por nomativa aplicable
+- Evitar accesos no permitido a la información
+- Evitar perdida o fugas de infromación
+- Por nomativa aplicable
 
 
 
