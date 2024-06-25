@@ -26,6 +26,14 @@ Sin embargo, el tercer punto dependerá de la normativa legal aplicable al propi
 El artículo 32 del RGPD: Establece la obligación de implementar medidas técnicas y organizativas adecuadas para garantizar un nivel de seguridad adecuado al riesgo. El cifrado se menciona explícitamente como una medida de protección.<br><br>
 La LOPDGDD refuerza y complementa el RGPD en España, estableciendo que las medidas de seguridad, incluido el cifrado, deben ser implementadas para proteger los datos personales, especialmente en casos donde los datos son considerados de alto riesgo.
 
+- Real Decreto 256/2013: Sobre requerimientos de solvencia de las entidades financieras, que puede implicar el cifrado para la protección de datos financieros.
+
+- Ley 41/2002 de autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
+
+- Reglamento (UE) 2017/745 relativo a los productos sanitarios (MDR): Requiere medidas de seguridad para proteger los datos personales de los pacientes, incluyendo el cifrado cuando sea necesario.
+
+- Ley 9/2014 General de Telecomunicaciones: Establece requisitos de seguridad y confidencialidad de las comunicaciones electrónicas, que pueden incluir el cifrado.
+
 
 
  
