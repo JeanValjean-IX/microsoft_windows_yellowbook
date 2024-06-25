@@ -22,12 +22,8 @@ Sin embargo, el tercer punto dependerá de la normativa legal aplicable al propi
 
 - ENS (Esquema Nacional de Seguridad), en el caso, de las Administraciones Públicas, se obliga a cifrar la información en diversos contextos, especialmente cuando se trata de información confidencial, sensible o crítica.
  
-- LOPDGDD (Ley Organica de Protección de Datos y Garantias de Derechos Digitales) junto al RGPD (Reglamento General de Protección de Datos) de la Unión Europea, establece las obligaciones para la protección de datos personales.
-
-Aunque no especifican explícitamente en todos los casos cuándo se debe cifrar la información, imponen la implementación de medidas técnicas y organizativas adecuadas para garantizar un nivel de seguridad adecuado al riesgo.
-
-El artículo 32 del RGPD: Establece la obligación de implementar medidas técnicas y organizativas adecuadas para garantizar un nivel de seguridad adecuado al riesgo. El cifrado se menciona explícitamente como una medida de protección.
-
+- LOPDGDD (Ley Organica de Protección de Datos y Garantias de Derechos Digitales) junto al RGPD (Reglamento General de Protección de Datos) de la Unión Europea, establece las obligaciones para la protección de datos personales. Aunque no especifican explícitamente en todos los casos cuándo se debe cifrar la información, imponen la implementación de medidas técnicas y organizativas adecuadas para garantizar un nivel de seguridad adecuado al riesgo<br><br>
+El artículo 32 del RGPD: Establece la obligación de implementar medidas técnicas y organizativas adecuadas para garantizar un nivel de seguridad adecuado al riesgo. El cifrado se menciona explícitamente como una medida de protección.<br><br>
 La LOPDGDD refuerza y complementa el RGPD en España, estableciendo que las medidas de seguridad, incluido el cifrado, deben ser implementadas para proteger los datos personales, especialmente en casos donde los datos son considerados de alto riesgo.
 
 
