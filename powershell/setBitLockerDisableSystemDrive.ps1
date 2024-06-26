@@ -4,7 +4,7 @@ $BitLockerStatus = Get-BitLockerVolume -MountPoint $systemDrive
 Disable-BitLocker -MountPoint "$systemDrive"
 $BitLockerStatus = Get-BitLockerVolume -MountPoint $systemDrive
 if ($BitLockerStatus.ProtectionStatus -eq 'On') {
-    Write-Host "Iniciando desencriptación..."
+    Write-Host "Iniciando la desencriptación..."
     Unlock-BitLocker -MountPoint $SystemDrive
 } else {
     Write-Host "BitLocker deshabilitado o unidad de sistema no cifrada."
