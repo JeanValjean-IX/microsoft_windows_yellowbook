@@ -1,1 +1,2 @@
 
+Disable-BitLocker -MountPoint
