@@ -1,4 +1,7 @@
-# Alternativa: Usar NetAdapter para obtener información detallada del adaptador si está disponible
+# Get-NetAdapter | Select-Object Name, InterfaceDescription, Status, VlanID
+# Obtener información detallada de las targetas de red del equipo
+# Alternativa con NetAdapter para obtener información detallada del adaptador si está disponible
+
 $netAdapters = Get-NetAdapter
 
 foreach ($adapter in $netAdapters) {
