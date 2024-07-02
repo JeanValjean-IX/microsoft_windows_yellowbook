@@ -10,15 +10,15 @@ Para este WhiteBook sólo nos centraremos en entornos Windows.
 
 # Casos de uso de BitLocker.
 
-BitLocker principalmente es utilizado para:
+BitLocker principalmente se utiliza para:
 
 - Evitar accesos no permitidos a la información.
 - Evitar la perdida o fugas de infromación.
 - Por nomativa aplicable.
 
-Los dos primeros puntos no necesitan mucha más explicación. La encriptación evita y reduce los riegos asociados a personas mal intencionadas que intentan acceder o robar información personal o de una organización.
+Con caracter general, el uso de herramientas de encriptación es media opcional. Sin embargo, puede darse el caso que la información tratada esté sujeta a normativa legal que nos obligue a cifrar la información.     
 
-Sin embargo, el tercer punto dependerá de la normativa legal aplicable al propietario de la información. Por ejemplo, en el teritorio Español encontramos:
+Por ejemplo, en el teritorio Español encontramos:
 
 - En el caso de las Administraciones Públicas, el ENS (Esquema Nacional de Seguridad) obliga a cifrar la información en diversos contextos, especialmente cuando se trata de información confidencial, sensible o crítica.
  
