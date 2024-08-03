@@ -1,3 +1,4 @@
+# .\makeGodModeFolder.ps1 -folderPath "D:\folder_path"
 param (
     [string]$folderPath = ""
 )
