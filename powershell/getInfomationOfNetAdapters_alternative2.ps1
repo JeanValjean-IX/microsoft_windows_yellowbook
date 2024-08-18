@@ -5,7 +5,7 @@
 $netAdapters = Get-NetAdapter
 
 foreach ($adapter in $netAdapters) {
-    Write-Host "---------------------------------"
+    Write-Host "------------------------------------------------------"
     Write-Host "Name        : $($adapter.Name)"
     Write-Host "Description : $($adapter.InterfaceDescription)"
     Write-Host "Status      : $($adapter.Status)"
