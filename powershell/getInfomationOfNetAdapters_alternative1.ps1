@@ -3,7 +3,7 @@
 $networkAdapters = Get-WmiObject -Class Win32_NetworkAdapterConfiguration
 
 foreach ($adapter in $networkAdapters) {
-    Write-Host "---------------------------------"
+    Write-Host "-----------------------------------------------------------------"
     Write-Host "Nombre          : $($adapter.Description)"
     Write-Host "MAC Address     : $($adapter.MACAddress)"
     Write-Host "DHCP Habilitado : $($adapter.DHCPEnabled)"
