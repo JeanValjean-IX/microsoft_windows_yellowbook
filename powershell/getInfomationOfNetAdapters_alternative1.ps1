@@ -11,5 +11,5 @@ foreach ($adapter in $networkAdapters) {
     Write-Host "Subnet Mask     : $($adapter.IPSubnet)"
     Write-Host "Default Gateway : $($adapter.DefaultIPGateway)"
     Write-Host "DNS Servers     : $($adapter.DNSServerSearchOrder)"
-    Write-Host "VLAN ID         : $($adapter.SettingID)" # Este campo puede no reflejar la VLAN directamente
+    Write-Host "VLAN ID         : $($adapter.SettingID)"
 }
