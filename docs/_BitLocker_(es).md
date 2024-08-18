@@ -10,7 +10,7 @@ Para este YellowBook sólo nos centraremos en entornos Windows.
 
 BitLocker principalmente se utiliza para:
 
-- Evitar el acceso no permitido.
+- Evitar accesos no permitidos a los datos.
 - Evitar la perdida o fuga de información.
 - Dar solución a la nomativa legal aplicable.
 
