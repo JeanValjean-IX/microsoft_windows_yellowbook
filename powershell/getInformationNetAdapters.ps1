@@ -1,11 +1,7 @@
-# Obtener los adaptadores de red
 $netAdapters = Get-NetAdapter
 $networkAdapters = Get-WmiObject -Class Win32_NetworkAdapterConfiguration
-
-# Mostrar los datos de cada adaptador de red
 foreach ($adapter in $netAdapters) {
     $wmiAdapter = $networkAdapters | Where-Object {$_.Index -eq $adapter.InterfaceIndex}
-
     Write-Host "Adaptador de red: $($adapter.Name)"
     Write-Host "Descripción: $($adapter.InterfaceDescription)"
     Write-Host "Tipo de interfaz: $($adapter.InterfaceType)"
