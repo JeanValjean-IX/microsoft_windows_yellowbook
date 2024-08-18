@@ -2,11 +2,9 @@
 
 # ¿Qué es BitLocker?
 
-BitLocker es un servicio de cifrado utilizado por sistemas operativos Windows. Su función principal es cifrar la información ubicada en dispositivos de almacenamiento.
+BitLocker es un producto desarollado por Microsoft y que está destinado a cifrar información en los sistemas operativos Windows. Se ha de comentar, que en la actualidad, también existen herramientas desarollados por terceros que permiten acceder a la información encriptada por BitLocker desde otros sistemas operativos Linux o MacOS. 
 
-BitLocker es una solución desarollada por Microsoft. A persar que fué diseñada para entornos Windows, se ha de comentar que en la actualidad, existen herramientas para sistemes operativos Mac o Linux que perimter acceder a la información encriptada por BitLocker.
-
-Para este WhiteBook sólo nos centraremos en entornos Windows.
+Para este YellowBook sólo nos centraremos en entornos Windows.
 
 # Casos de uso de BitLocker.
 
